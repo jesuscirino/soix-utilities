@@ -1,0 +1,21 @@
+{
+  "name": "soix-utilities",
+  "version": "1.0.0",
+  "scripts": {
+    "main": "babel-node index.js"
+  },
+  "description": "test tools",
+  "main": "index.js",
+  "repository": "https://github.com/jesuscirino/soix-utilities.git",
+  "author": "jesuscirino",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/node": "^7.6.3",
+    "@babel/preset-env": "^7.6.3",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.0"
+  }
+}
